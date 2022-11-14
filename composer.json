@@ -1,0 +1,12 @@
+{
+	"name": "siilike/commonx",
+	"description": "Common exceptions",
+	"type": "library",
+	"license": "MIT",
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"CommonX\\": "src/"
+		}
+	}
+}
